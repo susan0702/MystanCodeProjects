@@ -8,5 +8,5 @@ Watch my *[DEMO VIDEOS!](https://youtube.com/shorts/Uo5ZSdus1xg)*
 
 ## Project source codes:
 + ### Beeper Row
-  -
+  - ###### python semantics & syntax
 
