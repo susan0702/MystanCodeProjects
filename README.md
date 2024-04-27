@@ -5,8 +5,3 @@ The purposes of the self-training are to strengthen my computer skills and fulfi
 I truly believe it's an important preperation to equip myself for future studies.
 
 Watch my *[DEMO VIDEOS!](https://youtube.com/shorts/Uo5ZSdus1xg)*
-
-## Project source codes:
-+ #### Beeper Row
-  - ###### python semantics & syntax
-
